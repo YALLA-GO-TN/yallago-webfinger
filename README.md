@@ -33,4 +33,4 @@ Toute modification doit être validée par le coordinateur technique.
 
 ## Contact
 
-ops@yalla-go.com
+security@yalla-go.com
